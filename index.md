@@ -4,7 +4,19 @@ layout: home
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-<img src="./fotosito.jpg" alt="Chiara Molinari" style="float: right; width: 180px; margin-left: 30px; border-radius: 4px;">
+<style>
+  .site-header { background-color: #003a6c; border-top: none; }
+  .site-title, .page-link { color: #ffffff !important; }
+  .site-nav svg { fill: #ffffff !important; }
+
+  a { color: #003a6c !important; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  i { color: #003a6c; }
+</style>
+
+<img src="./fotosito.jpg" alt="Chiara Molinari" style="float: right; width: 180px; margin-left: 30px; border: 4px solid #003a6c; border-radius: 4px;">
+
+<div style="background-color: #e4
 
 Hi! I am a PhD student in Combinatorics at the [University of Warwick](https://warwick.ac.uk/fac/sci/maths/), under the supervision of [Agelos Georgakopoulos](https://agelos.neocities.org/).
 
