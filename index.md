@@ -1,6 +1,4 @@
-# Welcome
-
-I am a PhD student in Combinatorics at the University of Warwick, under the supervision of [Prof. Agelos Georgakopoulos](https://agelos.neocities.org/).
+I am a PhD student in Combinatorics at the [University of Warwick](https://warwick.ac.uk/fac/sci/maths/), under the supervision of [Prof. Agelos Georgakopoulos](https://agelos.neocities.org/).
 
 My interests include graph theory and its connections with geometry and topology. My current research focus is coarse graph theory.
 
