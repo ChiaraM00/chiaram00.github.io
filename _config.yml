@@ -1,4 +1,10 @@
 theme: minima
 title: Chiara Molinari
-author: 
-description: 
+description: PhD Student in Mathematics
+
+minima:
+  social_links:
+    - name: linkedin
+      username: chiara-molinari-4ab532255
+    - name: github
+      username: ChiaraM00
