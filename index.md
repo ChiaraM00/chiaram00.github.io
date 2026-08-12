@@ -28,6 +28,14 @@ In a previous life, I worked as a systematic trading strategies developer at Gol
 
 ---
 
+### Preprints
+
+**[Quasi-isometries, contractions, and intersection graphs](https://arxiv.org/abs/2608.10164)**  
+with Agelos Georgakopoulos  
+*2026, preprint*
+
+---
+
 ### Contact
 
 * <i class="fa-solid fa-envelope" style="width: 20px;"></i> [chiara[dot]molinari[dot]maths@gmail[dot]com](mailto:chiara.molinari.maths@gmail.com)
